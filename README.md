@@ -8,4 +8,4 @@ Web Scraping - Coleta de dados
 
 3 - Ao finalizar a coleta, o navegador é finalizado e o relatório com as informações do (1) é gerado.
 
-Link explicativo: https://youtu.be/MXaiS6fDVzg
+Vídeo explicativo: https://youtu.be/MXaiS6fDVzg
